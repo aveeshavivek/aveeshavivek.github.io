@@ -17087,7 +17087,7 @@ border-radius:10px;
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .rn-portfolio .inner .thumbnail a img,
 .rn-blog .inner .thumbnail a img {
-    height: inherit;
+    height: 200px;
   }
 }
 .rn-portfolio .inner .thumbnail a video,
