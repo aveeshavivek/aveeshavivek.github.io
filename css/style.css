@@ -11214,7 +11214,7 @@ body.template-color-1 {
 }
 
 .rn-header.header--fixed.sticky {
-  background-color: #08181e;
+  background-color: rgb(8 24 30 / 80%);
   box-shadow: var(--shadow-1);
   position: fixed;
   backdrop-filter: blur(15px);
